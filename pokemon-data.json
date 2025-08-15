@@ -12945,9 +12945,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 256
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755246674/Capigsugi_nwpvcz.webp"
     },
     {
       "id": 2014,
@@ -12957,34 +12957,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 428
       },
-      "image": null
-    },
-    {
-      "id": 2020,
-      "name": "Pengliff",
-      "type": [
-        "ice"
-      ],
-      "region": "Urobos",
-      "stats": {
-        "total": null
-      },
-      "image": null
-    },
-    {
-      "id": 2021,
-      "name": "Penglacier",
-      "type": [
-        "ice",
-        "rock"
-      ],
-      "region": "Urobos",
-      "stats": {
-        "total": null
-      },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755246681/Capabara_Sugi_C_300dpi_zzaiuj.webp"
     },
     {
       "id": 2026,
@@ -12995,9 +12970,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 460
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755246809/026Kobalt_txkhbo.webp"
     },
     {
       "id": 2027,
@@ -13007,9 +12982,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 305
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755247047/SugiPebblosa_wsmw0d.webp"
     },
     {
       "id": 2028,
@@ -13020,9 +12995,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 413
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755247056/Terratetraprofile_e2xihw.webp"
     },
     {
       "id": 2029,
@@ -13033,9 +13008,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 533
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755247058/Gigaardprofile_wjfro2.webp"
     },
     {
       "id": 2030,
@@ -13045,9 +13020,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 340
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755247190/Cowattiprofile_wb8ldu.webp"
     },
     {
       "id": 2033,
@@ -13057,9 +13032,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 360
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755247192/Taomarin_Sugi_4b_zykvlx.webp"
     },
     {
       "id": 2034,
@@ -13069,9 +13044,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 480
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755247204/There_was_a_hidden_layer_yb4vnj.webp"
     },
     {
       "id": 2039,
@@ -13082,9 +13057,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 260
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755247308/Musburryprofile_abpwka.webp"
     },
     {
       "id": 2040,
@@ -13095,9 +13070,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 421
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249087/Musevo2_xbk4uo.webp"
     },
     {
       "id": 2041,
@@ -13107,33 +13082,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 476
       },
-      "image": null
-    },
-    {
-      "id": 2044,
-      "name": "Tuliep",
-      "type": [
-        "grass"
-      ],
-      "region": "Urobos",
-      "stats": {
-        "total": null
-      },
-      "image": null
-    },
-    {
-      "id": 2045,
-      "name": "Capulilly",
-      "type": [
-        "grass"
-      ],
-      "region": "Urobos",
-      "stats": {
-        "total": null
-      },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249154/BERRATEL_ygqxqq.webp"
     },
     {
       "id": 2046,
@@ -13143,21 +13094,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 440
       },
-      "image": null
-    },
-    {
-      "id": 2047,
-      "name": "Macabra",
-      "type": [
-        "dark"
-      ],
-      "region": "Urobos",
-      "stats": {
-        "total": null
-      },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249217/Dreamdery1_cqakdd.webp"
     },
     {
       "id": 2048,
@@ -13167,9 +13106,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 295
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249306/048Kertruffle_n0nubh.webp"
     },
     {
       "id": 2049,
@@ -13180,9 +13119,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 465
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249325/049Mosshroom_tdo05c.webp"
     },
     {
       "id": 2050,
@@ -13193,9 +13132,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 465
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249327/050Lumishroom_yyrzqx.webp"
     },
     {
       "id": 2051,
@@ -13206,9 +13145,9 @@
       ],
       "region": "Urobos",
       "stats": {
-        "total": null
+        "total": 465
       },
-      "image": null
+      "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249334/051Perishroom_vpxhqu.webp"
     },
      {
     "id": 2052,
@@ -13216,9 +13155,9 @@
     "type": ["fire", "rock"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 270
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249450/Rocano_Sugi_4d_dockg9.webp"
   },
   {
     "id": 2053,
@@ -13226,9 +13165,9 @@
     "type": ["fire", "rock"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 380
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249453/Volcarocprofile_bwhbru.webp"
   },
   {
     "id": 2054,
@@ -13236,9 +13175,9 @@
     "type": ["fire", "rock"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 490
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249456/Volcoalderprofile_lykpkw.webp"
   },
   {
     "id": 2059,
@@ -13246,9 +13185,9 @@
     "type": ["grass", "fire"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 280
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249550/Peppit_Sugi_4_oc9suq.webp"
   },
   {
     "id": 2060,
@@ -13256,9 +13195,9 @@
     "type": ["grass", "fire"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 402
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249550/Peppit_Sugi_4_oc9suq.webp"
   },
   {
     "id": 2061,
@@ -13266,9 +13205,9 @@
     "type": ["grass", "fire"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 506
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249557/Cinnabunny_wmitgc.webp"
   },
   {
     "id": 2062,
@@ -13276,9 +13215,9 @@
     "type": ["water"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2063,
@@ -13286,9 +13225,9 @@
     "type": ["water", "electric"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2069,
@@ -13296,9 +13235,9 @@
     "type": ["bug", "water"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2070,
@@ -13306,9 +13245,9 @@
     "type": ["bug", "water"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2074,
@@ -13316,9 +13255,9 @@
     "type": ["grass"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2075,
@@ -13326,9 +13265,9 @@
     "type": ["grass"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2076,
@@ -13336,9 +13275,9 @@
     "type": ["fighting", "poison"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2077,
@@ -13346,9 +13285,9 @@
     "type": ["fighting", "poison"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2078,
@@ -13356,9 +13295,9 @@
     "type": ["water"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2079,
@@ -13366,9 +13305,9 @@
     "type": ["water", "fire"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2080,
@@ -13376,9 +13315,9 @@
     "type": ["rock", "fire"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2081,
@@ -13386,9 +13325,9 @@
     "type": ["normal"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2082,
@@ -13396,9 +13335,9 @@
     "type": ["psychic"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2083,
@@ -13406,9 +13345,9 @@
     "type": ["psychic"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2084,
@@ -13416,9 +13355,9 @@
     "type": ["grass", "water"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2085,
@@ -13426,9 +13365,9 @@
     "type": ["grass", "water"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2087,
@@ -13436,9 +13375,9 @@
     "type": ["psychic"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": ""
     },
-    "image": null
+    "image": ""
   },
   {
     "id": 2088,
