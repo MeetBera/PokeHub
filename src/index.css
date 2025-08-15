@@ -1,0 +1,137 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Pokemon-inspired design system with beautiful gradients and animations */
+
+@layer base {
+  :root {
+    /* Base colors */
+    --background: 220 15% 97%;
+    --foreground: 222.2 84% 4.9%;
+
+    /* Pokemon type colors */
+    --fire: 14 88% 58%;
+    --water: 211 100% 50%;
+    --grass: 120 60% 50%;
+    --electric: 54 100% 62%;
+    --psychic: 307 69% 65%;
+    --ice: 194 100% 69%;
+    --dragon: 258 100% 50%;
+    --dark: 0 0% 20%;
+    --fairy: 339 100% 76%;
+    --fighting: 0 75% 45%;
+    --poison: 280 100% 45%;
+    --ground: 28 85% 45%;
+    --flying: 225 80% 60%;
+    --bug: 72 70% 45%;
+    --rock: 28 30% 35%;
+    --ghost: 258 35% 35%;
+    --steel: 220 15% 55%;
+    --normal: 60 15% 75%;
+
+    /* Main design tokens */
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --card-glass: 0 0% 100% / 0.1;
+    --card-border: 0 0% 100% / 0.2;
+
+    --primary: 258 100% 50%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 258 100% 70%;
+
+    --secondary: 211 100% 50%;
+    --secondary-foreground: 0 0% 100%;
+
+    --accent: 54 100% 62%;
+    --accent-foreground: 222.2 84% 4.9%;
+
+    --muted: 220 15% 95%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 220 15% 90%;
+    --input: 220 15% 95%;
+    --ring: 258 100% 50%;
+
+    --radius: 1rem;
+
+    /* Gradients */
+    --gradient-pokemon: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--secondary)));
+    --gradient-fire: linear-gradient(135deg, hsl(var(--fire)), hsl(14 100% 70%));
+    --gradient-water: linear-gradient(135deg, hsl(var(--water)), hsl(211 100% 70%));
+    --gradient-grass: linear-gradient(135deg, hsl(var(--grass)), hsl(120 60% 70%));
+    --gradient-electric: linear-gradient(135deg, hsl(var(--electric)), hsl(54 100% 80%));
+    --gradient-background: linear-gradient(135deg, hsl(220 15% 97%), hsl(220 25% 92%));
+
+    /* Glass morphism */
+    --glass-bg: rgba(255, 255, 255, 0.1);
+    --glass-border: rgba(255, 255, 255, 0.2);
+    --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+
+    /* Animations */
+    --transition-smooth: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+  }
+}
+
+/* Custom Pokemon UI styles */
+@layer components {
+  .pokemon-card {
+    @apply relative overflow-hidden rounded-2xl border border-card-border backdrop-blur-glass 
+           shadow-glass hover:shadow-glow transition-all duration-300 hover:scale-105 hover:-translate-y-2;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+  }
+
+  .pokemon-card::before {
+    content: '';
+    @apply absolute inset-0 rounded-2xl;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), transparent);
+    pointer-events: none;
+  }
+
+  .type-badge {
+    @apply px-3 py-1 rounded-full text-white text-sm font-semibold shadow-md;
+  }
+
+  .glass-panel {
+    @apply backdrop-blur-glass bg-white/10 border border-white/20 rounded-2xl shadow-glass;
+  }
+
+  .shimmer-effect {
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+    background-size: 200% 100%;
+    animation: shimmer 2s infinite;
+  }
+
+  .admin-panel {
+    @apply glass-panel p-6 max-w-2xl mx-auto;
+  }
+
+  .region-filter {
+    @apply flex flex-wrap gap-3 justify-center mb-8;
+  }
+
+  .region-button {
+    @apply px-6 py-3 rounded-full font-semibold transition-all duration-300 
+           bg-gradient-pokemon text-white shadow-glow hover:scale-105 hover:shadow-glow-blue;
+  }
+
+  .favorite-button {
+    @apply absolute top-4 right-4 p-2 rounded-full bg-white/20 backdrop-blur-sm 
+           border border-white/30 hover:bg-white/30 transition-all duration-300 hover:scale-110;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
