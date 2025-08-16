@@ -74,18 +74,18 @@ export default function PokemonApp() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-background">
+    <div className="min-h-screen bg-white">
       {/* Header */}
       <header className="relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-pokemon opacity-20" />
+        <div className="absolute inset-0 bg-red-400 opacity-100" />
         <div className="relative container mx-auto px-4 py-12 text-center">
           <div className="animate-scale-in">
-            <h1 className="text-5xl md:text-7xl font-bold text-white mb-4 animate-glow">
-              <span className="bg-gradient-to-r from-white to-primary-glow bg-clip-text text-transparent">
+            <h1 className="text-5xl md:text-7xl font-bold text-white mb-4">
+              <span className="bg-gradient-to-r from-white to-gray-100 bg-clip-text text-transparent">
                 Pokédex
               </span>
             </h1>
-            <p className="text-xl text-white/80 mb-8 max-w-2xl mx-auto">
+            <p className="text-xl text-white mb-8 max-w-2xl mx-auto">
               Discover and collect amazing Pokemon from all regions. Build your ultimate collection!
             </p>
             
@@ -93,7 +93,7 @@ export default function PokemonApp() {
             <div className="flex flex-wrap justify-center gap-4 mb-8">
               <Button
                 onClick={() => setShowAdminPanel(true)}
-                className="bg-gradient-electric hover:scale-105 transition-transform shadow-glow-yellow"
+                className="bg-gradient-electric hover:scale-105 transition-transform text-black shadow-glow-yellow"
               >
                 <Settings className="w-4 h-4 mr-2" />
                 Admin Panel
@@ -105,7 +105,7 @@ export default function PokemonApp() {
                 className={`transition-all duration-300 ${
                   showFavoritesOnly 
                     ? 'bg-gradient-to-r from-red-500 to-pink-500 shadow-glow' 
-                    : 'border-white/20 text-white hover:bg-white/10'
+                    : 'border-white/20 text-red hover:bg-white/10'
                 }`}
               >
                 <Heart className={`w-4 h-4 mr-2 ${showFavoritesOnly ? 'fill-current' : ''}`} />
@@ -158,7 +158,7 @@ export default function PokemonApp() {
         ) : (
           <>
             <div className="text-center mb-8">
-              <p className="text-white/80 text-lg">
+              <p className="text-purple-500 text-lg">
                 Showing {displayedPokemon.length} Pokemon
                 {selectedRegion !== 'All' && ` from ${selectedRegion}`}
                 {searchTerm && ` matching "${searchTerm}"`}
@@ -166,7 +166,7 @@ export default function PokemonApp() {
               </p>
             </div>
             
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5 gap-6">
               {displayedPokemon.map((pokemon, index) => (
                 <div
                   key={pokemon.id}

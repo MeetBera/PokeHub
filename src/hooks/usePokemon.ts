@@ -15,9 +15,12 @@ export function usePokemon() {
   const loadPokemon = async () => {
     try {
       setLoading(true);
-      const response = await fetch('/pokemon-data.json');
+
+      // Use Vite's base URL so it works in subfolders (e.g., GitHub Pages)
+      const response = await fetch(`${import.meta.env.BASE_URL}pokemon-data.json`);
+
       if (!response.ok) throw new Error('Failed to load Pokemon data');
-      
+
       const data: PokemonData = await response.json();
       setPokemon(data.pokemon);
     } catch (err) {
@@ -26,6 +29,7 @@ export function usePokemon() {
       setLoading(false);
     }
   };
+
 
   const loadFavorites = () => {
     const saved = localStorage.getItem('pokemon-favorites');
@@ -62,18 +66,18 @@ export function usePokemon() {
     // Save to pokemon-data.json
     try {
       const updatedData = { pokemon: updatedPokemon };
-      
+
       // Note: In a real application, you would need a backend API to write to files
       // For now, we'll simulate saving and the data will persist in memory during the session
       await new Promise(resolve => setTimeout(resolve, 500));
-      
+
       // In a production app, you would send this to your backend:
       // await fetch('/api/pokemon', {
       //   method: 'POST',
       //   headers: { 'Content-Type': 'application/json' },
       //   body: JSON.stringify(updatedData)
       // });
-      
+
       console.log('Pokemon added to collection:', pokemonWithId);
     } catch (err) {
       console.error('Failed to save Pokemon:', err);
@@ -86,10 +90,10 @@ export function usePokemon() {
   const getFilteredPokemon = (region: Region, searchTerm: string = '') => {
     return pokemon.filter(p => {
       const matchesRegion = region === 'All' || p.region === region;
-      const matchesSearch = searchTerm === '' || 
+      const matchesSearch = searchTerm === '' ||
         p.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
         p.type.some(type => type.toLowerCase().includes(searchTerm.toLowerCase()));
-      
+
       return matchesRegion && matchesSearch;
     });
   };
