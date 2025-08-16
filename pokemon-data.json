@@ -13180,44 +13180,14 @@
     "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249456/Volcoalderprofile_lykpkw.webp"
   },
   {
-    "id": 2059,
-    "name": "Peppit",
-    "type": ["grass", "fire"],
-    "region": "Urobos",
-    "stats": {
-      "total": 280
-    },
-    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249550/Peppit_Sugi_4_oc9suq.webp"
-  },
-  {
-    "id": 2060,
-    "name": "Hoppanero",
-    "type": ["grass", "fire"],
-    "region": "Urobos",
-    "stats": {
-      "total": 402
-    },
-    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249550/Peppit_Sugi_4_oc9suq.webp"
-  },
-  {
-    "id": 2061,
-    "name": "Scovalope",
-    "type": ["grass", "fire"],
-    "region": "Urobos",
-    "stats": {
-      "total": 506
-    },
-    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755249557/Cinnabunny_wmitgc.webp"
-  },
-  {
     "id": 2062,
     "name": "Pawter",
     "type": ["water"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 290
     },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755337536/Pawterprofile_ysodhn.webp"
   },
   {
     "id": 2063,
@@ -13225,29 +13195,9 @@
     "type": ["water", "electric"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 485
     },
-    "image": ""
-  },
-  {
-    "id": 2069,
-    "name": "Bouwee",
-    "type": ["bug", "water"],
-    "region": "Urobos",
-    "stats": {
-      "total": ""
-    },
-    "image": ""
-  },
-  {
-    "id": 2070,
-    "name": "Scubug",
-    "type": ["bug", "water"],
-    "region": "Urobos",
-    "stats": {
-      "total": ""
-    },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755337558/Huricanine_Sugi_4_x7jlhb.webp"
   },
   {
     "id": 2074,
@@ -13255,9 +13205,9 @@
     "type": ["grass"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 370
     },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755337756/Alpint_Sugi_4b_vy472o.webp"
   },
   {
     "id": 2075,
@@ -13265,9 +13215,9 @@
     "type": ["grass"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 515
     },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755337757/075ForuskG_dynzft.webp"
   },
   {
     "id": 2076,
@@ -13275,9 +13225,9 @@
     "type": ["fighting", "poison"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 340
     },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755337842/Platypow_Sugi_4b_rlgdiw.webp"
   },
   {
     "id": 2077,
@@ -13285,9 +13235,9 @@
     "type": ["fighting", "poison"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 485
     },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755337843/1358279968063_cvclmf.webp"
   },
   {
     "id": 2078,
@@ -13295,9 +13245,9 @@
     "type": ["water"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 345
     },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755337897/EarlGrey_owo2dv.webp"
   },
   {
     "id": 2079,
@@ -13305,9 +13255,9 @@
     "type": ["water", "fire"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 460
     },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755337899/1389062807700_lcwzcz.webp"
   },
   {
     "id": 2080,
@@ -13315,9 +13265,9 @@
     "type": ["rock", "fire"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 477
     },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755337970/Shibalbat_Sugi_4B_zy4evm.webp"
   },
   {
     "id": 2081,
@@ -13325,19 +13275,9 @@
     "type": ["normal"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 450
     },
-    "image": ""
-  },
-  {
-    "id": 2082,
-    "name": "Psybex",
-    "type": ["psychic"],
-    "region": "Urobos",
-    "stats": {
-      "total": ""
-    },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338036/Nobunata_Sugi_4_hevizl.webp"
   },
   {
     "id": 2083,
@@ -13345,9 +13285,9 @@
     "type": ["psychic"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 482
     },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338141/Gnuru_Sugi_4F_pzdrni.webp"
   },
   {
     "id": 2084,
@@ -13355,9 +13295,9 @@
     "type": ["grass", "water"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 338
     },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338141/Gnuru_Sugi_4F_pzdrni.webp"
   },
   {
     "id": 2085,
@@ -13365,19 +13305,9 @@
     "type": ["grass", "water"],
     "region": "Urobos",
     "stats": {
-      "total": ""
+      "total": 479
     },
-    "image": ""
-  },
-  {
-    "id": 2087,
-    "name": "Magowl",
-    "type": ["psychic"],
-    "region": "Urobos",
-    "stats": {
-      "total": ""
-    },
-    "image": ""
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338237/Bullotus_Green_Sugi_4_f7clxb.webp"
   },
   {
     "id": 2088,
@@ -13385,9 +13315,9 @@
     "type": ["water", "steel"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 299
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338394/Craliber_Sugi_4_lbwl5u.webp"
   },
   {
     "id": 2089,
@@ -13395,29 +13325,19 @@
     "type": ["water", "steel"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 499
     },
-    "image": null
-  },
-  {
-    "id": 2090,
-    "name": "Leafish",
-    "type": ["water", "grass"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338401/Qzuq3YA_rbyf4p.webp"
   },
   {
     "id": 2092,
     "name": "Quibble",
-    "type": ["normal", "flying"],
+    "type": ["flying"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 295
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338565/Eu_acredito_na_juventude_x7smql.webp"
   },
   {
     "id": 2093,
@@ -13425,9 +13345,9 @@
     "type": ["ground", "flying"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 405
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338510/Charles_Charlington_zw1wxb.webp"
   },
   {
     "id": 2094,
@@ -13435,9 +13355,9 @@
     "type": ["ground", "flying"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 510
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338567/Turkistador_Sugi_4C_hilw1e.webp"
   },
   {
     "id": 2095,
@@ -13445,9 +13365,9 @@
     "type": ["rock", "flying"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 300
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338703/Sedirrot_Sugi_4C_mvbqpl.webp"
   },
   {
     "id": 2096,
@@ -13455,9 +13375,9 @@
     "type": ["rock", "flying"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 475
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338719/Condesa_Sugi_4C_bcpixf.webp"
   },
   {
     "id": 2100,
@@ -13465,9 +13385,9 @@
     "type": ["dark", "ghost"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 455
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338769/Bang...SeeYouSpaceCowboy_q3grxa.webp"
   },
   {
     "id": 2101,
@@ -13475,9 +13395,9 @@
     "type": ["poison", "ghost"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 293
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338822/Phlask_Sugi_4a_ntb9cw.webp"
   },
   {
     "id": 2102,
@@ -13485,9 +13405,9 @@
     "type": ["poison", "ghost"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 397
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338825/Noxial_Blue_Sugi_4c_nr3xzi.webp"
   },
   {
     "id": 2103,
@@ -13495,9 +13415,9 @@
     "type": ["poison", "ghost"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 505
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338832/Fumighast_Sugi_4a_uyigmb.webp"
   },
   {
     "id": 2104,
@@ -13505,9 +13425,9 @@
     "type": ["normal", "electric"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 280
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338943/AtomiteSugi_omtjla.webp"
   },
   {
     "id": 2105,
@@ -13515,9 +13435,9 @@
     "type": ["normal", "electric"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 502
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338949/Orbatom_Sugi_4_kxvzd6.webp"
   },
   {
     "id": 2108,
