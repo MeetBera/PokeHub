@@ -13440,24 +13440,14 @@
     "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755338949/Orbatom_Sugi_4_kxvzd6.webp"
   },
   {
-    "id": 2108,
-    "name": "Boarealis",
-    "type": ["dark", "psychic"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
     "id": 2109,
     "name": "Chelonite",
     "type": ["psychic", "rock"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 345
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755340786/1389561328319_m4uddv.webp"
   },
   {
     "id": 2110,
@@ -13465,9 +13455,9 @@
     "type": ["psychic", "rock"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 490
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755340789/Galaxagos_Sugi_4c_zakxbt.webp"
   },
   {
     "id": 2111,
@@ -13475,9 +13465,9 @@
     "type": ["steel"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 500
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755340942/Magnitogre_Sugi_4e_q83tzj.webp"
   },
   {
     "id": 2113,
@@ -13485,9 +13475,9 @@
     "type": ["bug", "ground"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 468
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755340995/GetRekedKiddo_mgwpnj.webp"
   },
   {
     "id": 2114,
@@ -13495,9 +13485,9 @@
     "type": ["ground", "grass"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 325
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341042/CutiePotwithouttheoragngeinthecornercurseyouSZformakignthisharderthenitshouldbe_rlwzu4.webp"
   },
   {
     "id": 2115,
@@ -13505,9 +13495,9 @@
     "type": ["ground", "grass"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 420
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341045/TrikottaSugi_goocif.webp"
   },
   {
     "id": 2116,
@@ -13515,19 +13505,9 @@
     "type": ["ground", "grass"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 505
     },
-    "image": null
-  },
-  {
-    "id": 2117,
-    "name": "Pueblant",
-    "type": ["bug", "rock"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341049/TerrorcottaSugi_eopi4d.webp"
   },
   {
     "id": 2118,
@@ -13535,9 +13515,9 @@
     "type": ["bug", "rock"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 466
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341230/Jewledbug2_pxarzf.webp"
   },
   {
     "id": 2123,
@@ -13545,9 +13525,9 @@
     "type": ["rock", "psychic"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 330
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341289/IwillROCKyou_gvozwv.webp"
   },
   {
     "id": 2124,
@@ -13555,9 +13535,9 @@
     "type": ["rock", "psychic"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 500
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341293/Grav_ib69ha.webp"
   },
   {
     "id": 2127,
@@ -13565,9 +13545,9 @@
     "type": ["fire"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 310
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341347/SlowAndSteady_uokeuq.webp"
   },
   {
     "id": 2128,
@@ -13575,9 +13555,9 @@
     "type": ["fire", "steel"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 425
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341350/WannaRacePepperHare_ilv2hw.webp"
   },
   {
     "id": 2129,
@@ -13585,9 +13565,9 @@
     "type": ["fire", "steel"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 517
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341354/FireTurtleSugi_bqnwo3.webp"
   },
   {
     "id": 2130,
@@ -13595,9 +13575,9 @@
     "type": ["ghost", "flying"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 330
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341436/103_wssk0d.webp"
   },
   {
     "id": 2131,
@@ -13605,9 +13585,9 @@
     "type": ["ghost", "flying"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 425
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341520/Spookyness_mpu0dn.webp"
   },
   {
     "id": 2132,
@@ -13615,39 +13595,9 @@
     "type": ["ghost", "flying"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 525
     },
-    "image": null
-  },
-  {
-    "id": 2135,
-    "name": "Calphite",
-    "type": ["rock", "ground"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2136,
-    "name": "Indrolith",
-    "type": ["rock", "ground"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2137,
-    "name": "Solacari",
-    "type": ["normal", "flying"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341525/105_vpkowt.webp"
   },
   {
     "id": 2138,
@@ -13655,49 +13605,9 @@
     "type": ["water"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 490
     },
-    "image": null
-  },
-  {
-    "id": 2139,
-    "name": "Loneleaf",
-    "type": ["ghost", "grass"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2140,
-    "name": "Forthorn",
-    "type": ["ghost", "grass"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2141,
-    "name": "Coltergeist",
-    "type": ["ghost"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2142,
-    "name": "Fantasmare",
-    "type": ["ghost"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341668/Nursharyprofile_ugnx0h.webp"
   },
   {
     "id": 2143,
@@ -13705,9 +13615,9 @@
     "type": ["dark", "normal"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 344
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341951/HaHa1_r1uitw.webp"
   },
   {
     "id": 2144,
@@ -13715,9 +13625,9 @@
     "type": ["dark", "normal"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 482
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755341956/H2_il7p64.webp"
   },
   {
     "id": 2147,
@@ -13725,9 +13635,9 @@
     "type": ["normal"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 310
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755342033/Dopps_dj2tgv.webp"
   },
   {
     "id": 2148,
@@ -13735,79 +13645,9 @@
     "type": ["normal"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 440
     },
-    "image": null
-  },
-  {
-    "id": 2153,
-    "name": "Erycoon",
-    "type": ["normal"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2154,
-    "name": "Leukoon",
-    "type": ["normal", "ghost"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2155,
-    "name": "Toxito",
-    "type": ["bug", "poison"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2156,
-    "name": "Sanguito",
-    "type": ["bug", "poison"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2157,
-    "name": "Orett",
-    "type": ["steel"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2158,
-    "name": "Anvelid",
-    "type": ["steel"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2159,
-    "name": "Magroplex",
-    "type": ["steel"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755342038/Artifish_Sugi_4H_m2th2l.webp"
   },
   {
     "id": 2160,
@@ -13815,29 +13655,9 @@
     "type": ["normal"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 444
     },
-    "image": null
-  },
-  {
-    "id": 2161,
-    "name": "Chilloth",
-    "type": ["water"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2162,
-    "name": "Soakoth",
-    "type": ["water"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755342246/Viipiisugi_pcafil.webp"
   },
   {
     "id": 2163,
@@ -13845,9 +13665,9 @@
     "type": ["fighting"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 346
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755342366/163Chayan_zqjtbd.webp"
   },
   {
     "id": 2164,
@@ -13855,9 +13675,9 @@
     "type": ["fighting"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 500
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755342371/164Macuarrior_ff4xzo.webp"
   },
   {
     "id": 2165,
@@ -13865,59 +13685,9 @@
     "type": ["fighting"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 500
     },
-    "image": null
-  },
-  {
-    "id": 2166,
-    "name": "Fortifry",
-    "type": ["water"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2167,
-    "name": "Oarwish",
-    "type": ["water", "psychic"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2169,
-    "name": "Slatic",
-    "type": ["electric"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2170,
-    "name": "Telsion",
-    "type": ["electric"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2171,
-    "name": "Chameleohm",
-    "type": ["electric"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755342376/165Ocerumi_g1dowb.webp"
   },
   {
     "id": 2173,
@@ -13925,19 +13695,9 @@
     "type": ["water", "poison"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 514
     },
-    "image": null
-  },
-  {
-    "id": 2179,
-    "name": "Chimpoca",
-    "type": ["fighting"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755343946/Atlantikis_flcmz6.webp"
   },
   {
     "id": 2180,
@@ -13945,9 +13705,9 @@
     "type": ["fighting"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 400
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755344065/Simayan_Sugi_4_w4zbow.webp"
   },
   {
     "id": 2181,
@@ -13955,19 +13715,9 @@
     "type": ["fighting"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 520
     },
-    "image": null
-  },
-  {
-    "id": 2182,
-    "name": "Enigmite",
-    "type": ["bug"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755344070/Monkezuma_Sugi_4c_zwuzig.webp"
   },
   {
     "id": 2183,
@@ -13975,49 +13725,9 @@
     "type": ["bug", "psychic"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 488
     },
-    "image": null
-  },
-  {
-    "id": 2184,
-    "name": "Arjibi",
-    "type": ["normal"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2185,
-    "name": "Royjibiv",
-    "type": ["normal", "dragon"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2188,
-    "name": "Drosire",
-    "type": ["grass"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2189,
-    "name": "Sunduke",
-    "type": ["grass"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755344164/Enigmantisprofile_qytwdl.webp"
   },
   {
     "id": 2190,
@@ -14025,9 +13735,9 @@
     "type": ["ghost", "fire"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 352
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755344294/1368926614962_egnhcv.webp"
   },
   {
     "id": 2191,
@@ -14035,129 +13745,69 @@
     "type": ["ghost", "fire"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 467
     },
-    "image": null
-  },
-  {
-    "id": 2192,
-    "name": "Glocto",
-    "type": ["water", "fire"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2193,
-    "name": "Lavoon",
-    "type": ["water", "fire"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2194,
-    "name": "Gilla",
-    "type": ["poison"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2195,
-    "name": "Hornizard",
-    "type": ["poison"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2196,
-    "name": "Ankillosore",
-    "type": ["poison", "ground"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2200,
-    "name": "Baboom",
-    "type": ["electric", "dark"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755344300/Phantern_Sugi_thx_he988e.webp"
   },
   {
     "id": 2201,
-    "name": "Icetope",
-    "type": ["ice", "poison"],
+    "name": "Porsite",
+    "type": ["water", "psychic"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 320
     },
-    "image": null
+    "image": "https://mazah-region.neocities.org/images/007.png"
   },
   {
     "id": 2202,
-    "name": "Chillnobyl",
-    "type": ["ice", "poison"],
+    "name": "Cettoekko",
+    "type": ["water", "psychic"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 405
     },
-    "image": null
+    "image": "https://mazah-region.neocities.org/images/008.png"
   },
   {
     "id": 2203,
-    "name": "Wendingo",
-    "type": ["ice"],
+    "name": "Bathigigas",
+    "type": ["water","psychic"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 540
     },
     "image": null
   },
   {
     "id": 2204,
-    "name": "Carnibal",
-    "type": ["ice", "dark"],
+    "name": "Zea-Zaya",
+    "type": ["grass"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 250
     },
-    "image": null
+    "image": "https://mazah-region.neocities.org/images/033.png"
   },
   {
     "id": 2205,
-    "name": "Luchito",
-    "type": ["fighting", "electric"],
+    "name": "Zushk",
+    "type": ["grass"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 380
     },
-    "image": null
+    "image": "https://mazah-region.neocities.org/images/034.png"
   },
   {
     "id": 2206,
-    "name": "Eluchadon",
-    "type": ["fighting", "electric"],
+    "name": "Mayzmen",
+    "type": ["grass"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 524
     },
-    "image": null
+    "image": "https://mazah-region.neocities.org/images/035.png"
   },
   {
     "id": 2207,
@@ -14165,9 +13815,9 @@
     "type": ["rock", "grass"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 328
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755349815/Gjgh_nmx3ys.webp"
   },
   {
     "id": 2208,
@@ -14175,9 +13825,9 @@
     "type": ["rock", "grass"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 500
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755349816/Comossus_lkrz8b.webp"
   },
   {
     "id": 2209,
@@ -14185,9 +13835,9 @@
     "type": ["bug"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 302
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755349884/Larvynprofile_h49kwl.webp"
   },
   {
     "id": 2210,
@@ -14195,9 +13845,9 @@
     "type": ["bug"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 415
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755349892/Dracoon_Sugi_4_bpglay.webp"
   },
   {
     "id": 2211,
@@ -14205,49 +13855,39 @@
     "type": ["bug", "dragon"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 540
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755349894/Basilectprofile_cwisq9.webp"
   },
   {
     "id": 2212,
-    "name": "Carbite",
-    "type": ["dragon"],
+    "name": "Pudgee",
+    "type": ["dragon","normal"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 300
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755352647/RDT_20250816_1918575603090142480906705_uztuuu.png"
   },
   {
     "id": 2213,
-    "name": "Pressaur",
-    "type": ["dragon", "rock"],
+    "name": "Flubblub",
+    "type": ["dragon", "normal"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 420
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755352648/RDT_20250816_191902885613205519310624_dyu66s.png"
   },
   {
     "id": 2214,
-    "name": "Diamat",
-    "type": ["dragon", "rock"],
+    "name": "Blubbouyant",
+    "type": ["dragon", "normal"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 600
     },
-    "image": null
-  },
-  {
-    "id": 2215,
-    "name": "Quecko",
-    "type": ["grass"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755352647/RDT_20250816_191907329656482539498141_omo1uc.png"
   },
   {
     "id": 2216,
@@ -14255,19 +13895,9 @@
     "type": ["grass", "dragon"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 570
     },
-    "image": null
-  },
-  {
-    "id": 2217,
-    "name": "Crakling",
-    "type": ["fire"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755352855/PetPetPet_flky8s.webp"
   },
   {
     "id": 2218,
@@ -14275,19 +13905,9 @@
     "type": ["fire", "dragon"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 570
     },
-    "image": null
-  },
-  {
-    "id": 2219,
-    "name": "Draggar",
-    "type": ["water"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755352858/Alt_hynrs0.webp"
   },
   {
     "id": 2220,
@@ -14295,39 +13915,39 @@
     "type": ["water", "dragon"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 570
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755352873/221_hzafkc.webp"
   },
   {
     "id": 2221,
-    "name": "Eronze",
-    "type": ["steel", "fire"],
+    "name": "Regiwood",
+    "type": ["grass"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 580
     },
-    "image": null
+    "image": "https://mazah-region.neocities.org/images/067.png"
   },
   {
     "id": 2222,
-    "name": "Erion",
-    "type": ["steel", "poison"],
+    "name": "Regiwood",
+    "type": ["fighting"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 580
     },
-    "image": null
+    "image": "https://mazah-region.neocities.org/images/068.png"
   },
   {
     "id": 2223,
-    "name": "Erace",
-    "type": ["steel", "electric"],
+    "name": "Regieternal",
+    "type": ["fairy"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 580
     },
-    "image": null
+    "image": "https://mazah-region.neocities.org/images/069.png"
   },
   {
     "id": 2224,
@@ -14335,44 +13955,34 @@
     "type": ["grass", "ghost"],
     "region": "Urobos",
     "stats": {
-      "total": null
+      "total": 580
     },
-    "image": null
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755353022/SpiritTrioPatama_kjru4s.webp"
+  },
+   {
+    "id": 2225,
+    "name": "Yacuma",
+    "type": ["grass", "ghost"],
+    "region": "Urobos",
+    "stats": {
+      "total": 580
+    },
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755353032/SpiritTrioYacuma_b0u4la.webp"
+  },
+   {
+    "id": 2226,
+    "name": "Machima",
+    "type": ["grass", "ghost"],
+    "region": "Urobos",
+    "stats": {
+      "total": 580
+    },
+    "image": "https://res.cloudinary.com/davy75aew/image/upload/v1755353030/SpiritTrioMachima_zsqpf8.webp"
   },
   {
     "id": 2227,
-    "name": "Quetzar (Statue Forme)",
+    "name": "Quetzar",
     "type": ["dragon", "rock"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2228,
-    "name": "Quetzar (Space Forme)",
-    "type": ["dragon", "psychic"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2229,
-    "name": "Xochi",
-    "type": ["psychic", "fire"],
-    "region": "Urobos",
-    "stats": {
-      "total": null
-    },
-    "image": null
-  },
-  {
-    "id": 2230,
-    "name": "Xotec",
-    "type": ["psychic", "steel"],
     "region": "Urobos",
     "stats": {
       "total": null
