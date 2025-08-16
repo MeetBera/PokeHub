@@ -66,11 +66,6 @@ export default function PokemonCard({ pokemon, isFavorite = false, onToggleFavor
 
       {/* Pokemon Image */}
       <div className="relative p-6 flex justify-center items-center h-48 overflow-hidden">
-        <div className={cn(
-          'absolute inset-0 transition-opacity duration-300',
-          typeColors[pokemon.type[0] as PokemonType]
-        )} />
-        
         {!imageLoaded && (
           <div className="animate-pulse bg-muted/50 w-32 h-32 rounded-full" />
         )}
